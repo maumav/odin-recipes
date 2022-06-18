@@ -11,7 +11,8 @@ This project will showcase HTML skills I have learned by putting it into practic
 
 What skills did I demonstrate in my completed project?
 My project demonstrates:
-<br>i. creating functioning html pages 
+
+i. creating functioning html pages 
 <br>ii. providing links to each of the three recipe pages with corresponding titles
 <br>iii. accesibility by including alternative text to images to assist visually impaired users with screen-reader devices
 <br>iv. unordered list and ordered list format
