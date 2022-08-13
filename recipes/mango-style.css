@@ -7,6 +7,14 @@
     background-color: steelblue;
 }
 
+#div {
+    background-color: rgba(219, 217, 217, 0.342);
+}
+
 .mango-smoothie-h1 {
+    font-size: 50px;
     text-align: center;
 }
+
+
+
