@@ -1,9 +1,16 @@
 #body-idt {
         background-color: rgb(238, 238, 238);
-}
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
 
 #bar {
     background-color: rgba(100, 250, 54, 0.575);
+}
+
+#img-idd {
+    border-radius: 60px;
+    align-items: center;
+    
 }
 
 #img-0 {
