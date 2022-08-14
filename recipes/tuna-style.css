@@ -2,7 +2,7 @@
 #body-idt {
         background-color: rgb(238, 238, 238);
         font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, Helvetica, sans-serif;
-       
+       font-size: 20px;
     }
 
 #bar {
@@ -10,14 +10,12 @@
 }
 
 #img-idd {
-    border-radius: 60px;
-    
+    border-radius: 60px;  
 }
 
 #img-0 {
     border-radius: 60px;
     background-color: rgb(0, 0, 0);
-
 }
       
 
