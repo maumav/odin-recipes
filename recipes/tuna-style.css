@@ -1,6 +1,8 @@
+
 #body-idt {
         background-color: rgb(238, 238, 238);
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, Helvetica, sans-serif;
+       
     }
 
 #bar {
@@ -9,7 +11,6 @@
 
 #img-idd {
     border-radius: 60px;
-    align-items: center;
     
 }
 
@@ -22,6 +23,7 @@
 
 .div-box {
     background-color: rgba(24, 121, 231, 0.151);
+    
 }
 
 .div-desc {
